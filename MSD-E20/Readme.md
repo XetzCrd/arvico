@@ -12,6 +12,7 @@
 ## Calibrate
 * Nx $001 = val (val is the new x address)
 * Nx $002=val (val = Encoder counts per round)
+* Nx $005=1 (UART communication)
 * Nx O T (Get PID parameters)
 * Nx O S (Save changes)
 
@@ -34,3 +35,7 @@ Example: Nx [p value] [v value] [a value]
 ## None Control Mode
 
 * Nx O M5 S
+
+## Clear Errors
+
+* Nx O C
