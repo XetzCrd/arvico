@@ -9,7 +9,7 @@
 * N0 ? (x = MSD address)
 * Nx ? (All parameters)
 
-## Tunning
+## Calibrate
 * Nx $001 = val (val is the new x address)
 * Nx $002=val (val = Encoder counts per round)
 * Nx O T (Get PID parameters)
@@ -19,7 +19,7 @@
 
 * Nx O M3 S
 
-### Example: Nx [p value] [v value] [a value] 
+Example: Nx [p value] [v value] [a value] 
 * N1 v10 [O G3] ([optional] gives current information)
 * N1 v10 a5
 
@@ -27,7 +27,7 @@
 
 * Nx O M4 S
 
-### Example: Nx [p value] [v value] [a value] 
+Example: Nx [p value] [v value] [a value] 
 * N1 p500 [O G3] ([optional] gives current information)
 * N1 p1000 v80 
 
