@@ -13,6 +13,7 @@
 * Nx $001 = val (val is the new x address)
 * Nx $002=val (val = Encoder counts per round)
 * Nx $005=1 (UART communication)
+* Nx $009=val (val = UART Baudrate (115200 default))
 * Nx O T (Get PID parameters)
 * Nx O S (Save changes)
 
