@@ -15,7 +15,7 @@
 * Nx O T (Get PID parameters)
 * Nx O S (Save changes)
 
-## Speed Control
+## Speed Control Mode
 
 * Nx O M3 S
 
@@ -23,7 +23,7 @@ Example: Nx [p value] [v value] [a value]
 * N1 v10 [O G3] ([optional] gives current information)
 * N1 v10 a5
 
-## Position Control
+## Position Control Mode
 
 * Nx O M4 S
 
@@ -31,6 +31,6 @@ Example: Nx [p value] [v value] [a value]
 * N1 p500 [O G3] ([optional] gives current information)
 * N1 p1000 v80 
 
-## None Control
+## None Control Mode
 
 * Nx O M5 S
