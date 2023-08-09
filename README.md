@@ -15,6 +15,7 @@
 
 ## Github Repos
 * [Inclinometers](https://github.com/WITMOTION)
+* [MAX485](https://github.com/4-20ma/ModbusMaster/tree/master)
 
 
 ## Arduino Mega Libraries
