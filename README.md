@@ -16,6 +16,7 @@
 ## Github Repos
 * [Inclinometers](https://github.com/WITMOTION)
 * [MAX485](https://github.com/4-20ma/ModbusMaster/tree/master)
+* [ICM20948](https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary/tree/main)
 
 
 ## Arduino Mega Libraries
